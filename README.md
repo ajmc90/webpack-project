@@ -11,3 +11,7 @@ npm install --save-dev eslint \
 npm install --save-dev eslint-loader \
 npm install --save-dev babel-eslint \
 npm install --save-dev eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y \
+
+
+BABEL 7
+npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader
